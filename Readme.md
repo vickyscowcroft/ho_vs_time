@@ -15,4 +15,5 @@ Pink and blue regions indicate the **unweighted** means and their uncertainties 
   - Author year ref = ApJ Style reference, e.g. Beaton et al. (2016)
   - Month = Month **number** of publication, i.e. Jan = 1, Feb = 2, so it can put the value in the right place in the figure.
  
+ * Cepheids_vs_CMB_before_Planck.pdf and Cepheids_vs_CMB_after_Planck.pdf are my current versions. If you use these figures please cite [Beaton et al. 2016](https://ui.adsabs.harvard.edu/#abs/2016ApJ...832..210B/abstract) and give credit for this notebook.
  
